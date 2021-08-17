@@ -107,7 +107,7 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 9º Passo - Com os módulos ativados, é possível fazer os testes de desenvolvimento web localmente.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i9.png)
 
 10º Passo - Caso não tenha instalado o MySQL Wokbench, escolha o sistema operacional e clique em **Download**.
 
