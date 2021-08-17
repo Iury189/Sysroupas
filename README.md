@@ -64,7 +64,7 @@ Login/Logout | Funcionando
 >
 > [Documentação do Sysroupas](https://github.com/Iury189/web2/blob/master/documentos/Documenta%C3%A7%C3%A3o%20Sysroupas.pdf)
 
- ### SHospedagem do sistema <h3>
+ ### Hospedagem do sistema <h3>
 Acesse: http://sysroupas.ga/web/index.php
 
 Dados de login (Esse login não possui acesso total ao sistema):
