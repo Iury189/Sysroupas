@@ -82,15 +82,15 @@ Dados de login (Esse login não possui acesso total ao sistema):
     
 3º Passo - Siga as instruções de instalação a aguarde o têrmino do processo (por padrão o xampp orienta usar o endereço (_C:\xampp_) no disco local, caso queira um outro caminho basta definir). 
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i4.png)
 
 4º Passo - Vá até o disco local (C:\) acesse a pasta **xampp**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i5.png)
     
 5º Passo - Dentro da pasta xampp (_C:\xampp_) acesse a pasta **htdocs**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i6.png)
 
 6º Passo - Pronto, você já está dentro do endereço de servidor web local (_C:\xampp\htdocs_).
 > O caminho do XAMPP no Linux e macOS são diferentes do Windows, para Linux o diretório é **/var/www/html/** e para macOS o diretório é **/Applications/XAMPP/xamppfiles/htdocs**.
@@ -99,7 +99,7 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 7º Passo - Antes de utilizar xampp, é preciso acessar o painel de controle, basta clicar em **xampp-control.exe** (_C:\xampp\xampp-control.exe_).
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i7.png)
 
 8º Passo - Já no painel, aperte o botão **Start** para ativar os módulos de **Apache** e **MySQL**.
 
@@ -128,11 +128,11 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 14º Passo - Vá ao no navegador e digite o endereço _localhost_.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i13.png)
 
 15º Passo - Na página inicial do xampp clique em **phpmyadmin**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i14.png)
 
 16º Passo - Para fazer a importação do banco, basta clicar em **Novo**.
 
