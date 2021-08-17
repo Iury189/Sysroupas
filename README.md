@@ -103,15 +103,15 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 8º Passo - Já no painel, aperte o botão **Start** para ativar os módulos de **Apache** e **MySQL**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i8.png)
 
 9º Passo - Com os módulos ativados, é possível fazer os testes de desenvolvimento web localmente.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i9.png)
 
 10º Passo - Caso não tenha instalado o MySQL Wokbench, escolha o sistema operacional e clique em **Download**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i10.png)
     
 11º Passo - Siga as instruções de instalação a aguarde o têrmino do processo.
 > Verifique se **.NET Framework** e **Microsoft Visual C++** estão instalados e atualizados em seu Windows (caso esteja usando outro sistema operacional verifique se há requisitos para instalar o MySQL Workbench.
