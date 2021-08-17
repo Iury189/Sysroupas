@@ -71,3 +71,109 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 * E-mail: convidado1@convidado.com
 * Senha: Convidado0123
+
+ <h1 align="center"> Instalação local </h1>
+
+1º Passo - Instale um servidor de desenvolvimento web em sua máquina, pode ser qualquer um de sua preferência (**XAMPP**, **WAMPServer**, **MAMP**, **Docker**, **Laragon**, **EasyPHP** e outros), nesse demonstração estou usando o **[XAMPP](https://www.apachefriends.org/pt_br/index.html)** no **Windows**.
+
+2º Passo - Ao escolher o ambiente de sua escolha, escolha o sistema operacional de sua preferência para baixar a versão mais recente do XAMPP, ou acesse **Clique aqui para outras versões** ou no menu do topo da página escrito **Baixar** para escolher as versões anteriores do XAMPP.
+
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i1.png)
+    
+3º Passo - Siga as instruções de instalação a aguarde o têrmino do processo (por padrão o xampp orienta usar o endereço (_C:\xampp_) no disco local, caso queira um outro caminho basta definir). 
+
+![]()
+
+4º Passo - Vá até o disco local (C:\) acesse a pasta **xampp**.
+
+![]()
+    
+5º Passo - Dentro da pasta xampp (_C:\xampp_) acesse a pasta **htdocs**.
+
+![]()
+
+6º Passo - Pronto, você já está dentro do endereço de servidor web local (_C:\xampp\htdocs_).
+> O caminho do XAMPP no Linux e macOS são diferentes do Windows, para Linux o diretório é **/var/www/html/** e para macOS o diretório é **/Applications/XAMPP/xamppfiles/htdocs**.
+> >
+![]()
+
+7º Passo - Antes de utilizar xampp, é preciso acessar o painel de controle, basta clicar em **xampp-control.exe** (_C:\xampp\xampp-control.exe_).
+
+![]()
+
+8º Passo - Já no painel, aperte o botão **Start** para ativar os módulos de **Apache** e **MySQL**.
+
+![]()
+
+9º Passo - Com os módulos ativados, é possível fazer os testes de desenvolvimento web localmente.
+
+![]()
+
+10º Passo - Caso não tenha instalado o MySQL Wokbench, escolha o sistema operacional e clique em **Download**.
+
+![]()
+    
+11º Passo - Siga as instruções de instalação a aguarde o têrmino do processo.
+> Verifique se **.NET Framework** e **Microsoft Visual C++** estão instalados e atualizados em seu Windows (caso esteja usando outro sistema operacional verifique se há requisitos para instalar o MySQL Workbench.
+>
+![]()
+
+12º Passo - Para testar os códigos de meu repositório clique em **Code** e em seguinda clique em **Download Zip**.
+
+![]()
+    
+13º Passo - Descompacte o zip corretamente e transfira os códigos para dentro da pasta **htdocs** (_C:\xampp\htdocs_).
+
+![]()
+
+14º Passo - Vá ao no navegador e digite o endereço _localhost_.
+
+![]()
+
+15º Passo - Na página inicial do xampp clique em **phpmyadmin**.
+
+![]()
+
+16º Passo - Para fazer a importação do banco, basta clicar em **Novo**.
+
+![]()
+    
+17º Passo - Nomeie o banco de dados para **web** e clique em **Criar** (é importante que o banco importado tenha o mesmo nome do banco vazio em sua máquina).
+
+![]()
+
+18º Passo - Com o banco **web** criado (o banco está vazio), vá para a página **Importar**.
+
+![]()
+
+19º Passo - Clique no botão **Escolher arquivo** para fazer o upload do arquivo da importação do banco.
+
+![]()
+
+20º Passo - Vá para dentro da pasta **web** (_C:\xampp\htdocs\web_) e escolha o arquivo **web.sql** e clique no botão **Abrir**.
+
+![]()
+
+21º Passo - Com arquivo escolhido para ser importado, clique no botão **Executar**.
+
+![]()
+
+22º Passo - Agora o banco de dados já foi importado para seu MySQL Workbench.
+
+![]()
+
+23º Passo - Insira o endereço _localhost/web/index.php_ em seu navegador para ser levado ao início do sistema.
+
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i22.png)
+    
+24º Passo - Insira os seguintes dados de login (lembrando que esse login não possui acesso total ao sistema).
+
+> E-mail: convidado@convidado.com
+> 
+> Senha: Convidado0123
+
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i23.png)
+
+25º Passo - Feito o login agora é só executar o sistema.
+
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i24.png)
