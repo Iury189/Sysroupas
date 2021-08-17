@@ -107,7 +107,7 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 9º Passo - Com os módulos ativados, é possível fazer os testes de desenvolvimento web localmente.
 
-![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i9.png)
+![]()
 
 10º Passo - Caso não tenha instalado o MySQL Wokbench, escolha o sistema operacional e clique em **Download**.
 
@@ -116,11 +116,11 @@ Dados de login (Esse login não possui acesso total ao sistema):
 11º Passo - Siga as instruções de instalação a aguarde o têrmino do processo.
 > Verifique se **.NET Framework** e **Microsoft Visual C++** estão instalados e atualizados em seu Windows (caso esteja usando outro sistema operacional verifique se há requisitos para instalar o MySQL Workbench.
 >
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i11.png)
 
 12º Passo - Para testar os códigos de meu repositório clique em **Code** e em seguinda clique em **Download Zip**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i12.png)
     
 13º Passo - Descompacte o zip corretamente e transfira os códigos para dentro da pasta **htdocs** (_C:\xampp\htdocs_).
 
