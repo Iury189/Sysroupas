@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.0.2
+-- version 5.1.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 14-Ago-2021 às 19:36
--- Versão do servidor: 10.4.14-MariaDB
--- versão do PHP: 7.3.22
+-- Tempo de geração: 18-Ago-2021 às 02:21
+-- Versão do servidor: 10.4.18-MariaDB
+-- versão do PHP: 7.3.28
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -152,7 +152,8 @@ CREATE TABLE `funcionario` (
 INSERT INTO `funcionario` (`cd_funcionario`, `nome`, `cargo`, `cpf`, `telefone`, `email`, `senha`) VALUES
 (1, 'Fábio', 'Administrador', '111.111.111-11', '(12) 3323-1894', 'professor@professor.com.br', '$2y$10$VcurDOdGNECBG/cNTFXLQOEl54Nu1WWwiGlCGtk4LHwd.C0Batigq'),
 (2, 'Uenio Viana', 'Administrador', '222.222.222-22', '(24) 1823-1720', 'ueniomlh@gmail.com', '$2y$10$u/Sv5fj0VceLJ7ZMnOBbDucrusinrtbIQ.s2HnZaKUBJHgJHJDCMm'),
-(3, 'Simon Belmont', 'Administrador', '333.333.333-33', '(90) 5872-0912', 'belmont@castlevania.com', '$2y$10$JCm0f9y8BpgsMSlJDvBQruMtZ9MY6zdKeqbgY1r/qC2imFJHwkgGG');
+(3, 'Simon Belmont', 'Administrador', '333.333.333-33', '(90) 5872-0912', 'belmont@castlevania.com', '$2y$10$JCm0f9y8BpgsMSlJDvBQruMtZ9MY6zdKeqbgY1r/qC2imFJHwkgGG'),
+(4, 'Convidado 1', 'Atendente', '457.309.272-10', '(27) 3094-2347', 'convidado@convidado.com', '$2y$10$wFsZvJNY3AvEMz1PaXVtfOIXIaeQHBn8mp2y69eqQHrG1PDiEYpDe');
 
 -- --------------------------------------------------------
 
@@ -331,7 +332,7 @@ ALTER TABLE `fornecedor`
 -- AUTO_INCREMENT de tabela `funcionario`
 --
 ALTER TABLE `funcionario`
-  MODIFY `cd_funcionario` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `cd_funcionario` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT de tabela `produtos_devolucao`
