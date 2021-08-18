@@ -124,9 +124,11 @@ Dados de login (Esse login não possui acesso total ao sistema):
     
 13º Passo - Descompacte o zip corretamente e transfira os códigos para dentro da pasta **htdocs** (_C:\xampp\htdocs_).
  
-> Faça a renomeação do nome do repositório de **Sysroupas** para **web** por causa do caminho dos arquivos do código que estam com nome de **web**.
+> Faça a renomeação do nome do repositório de **Sysroupas-master** para **web** por causa do caminho dos arquivos do código que estam com nome de **web**.
 >
 
+ ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i28.png)
+ 
 ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i15.png)
 
 14º Passo - Vá ao no navegador e digite o endereço _localhost_.
