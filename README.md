@@ -124,7 +124,7 @@ Dados de login (Esse login não possui acesso total ao sistema):
     
 13º Passo - Descompacte o zip corretamente e transfira os códigos para dentro da pasta **htdocs** (_C:\xampp\htdocs_).
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i15.png)
 
 14º Passo - Vá ao no navegador e digite o endereço _localhost_.
 
@@ -136,31 +136,31 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 16º Passo - Para fazer a importação do banco, basta clicar em **Novo**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i16.png)
     
 17º Passo - Nomeie o banco de dados para **web** e clique em **Criar** (é importante que o banco importado tenha o mesmo nome do banco vazio em sua máquina).
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i17.png)
 
 18º Passo - Com o banco **web** criado (o banco está vazio), vá para a página **Importar**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i18.png)
 
 19º Passo - Clique no botão **Escolher arquivo** para fazer o upload do arquivo da importação do banco.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i19.png)
 
 20º Passo - Vá para dentro da pasta **web** (_C:\xampp\htdocs\web_) e escolha o arquivo **web.sql** e clique no botão **Abrir**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i20.png)
 
 21º Passo - Com arquivo escolhido para ser importado, clique no botão **Executar**.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i26.png)
 
 22º Passo - Agora o banco de dados já foi importado para seu MySQL Workbench.
 
-![]()
+![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i27.png)
 
 23º Passo - Insira o endereço _localhost/web/index.php_ em seu navegador para ser levado ao início do sistema.
 
