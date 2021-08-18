@@ -150,7 +150,7 @@ Dados de login (Esse login não possui acesso total ao sistema):
 
 ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i19.png)
 
-20º Passo - Vá para dentro da pasta **web** (_C:\xampp\htdocs\web_) e escolha o arquivo **web.sql** e clique no botão **Abrir**.
+20º Passo - Vá para dentro da pasta **web** (_C:\xampp\htdocs\web\banco de dados) e escolha o arquivo **web.sql** e clique no botão **Abrir**.
 
 ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i20.png)
 
