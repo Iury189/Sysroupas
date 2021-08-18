@@ -123,6 +123,9 @@ Dados de login (Esse login não possui acesso total ao sistema):
 ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i12.png)
     
 13º Passo - Descompacte o zip corretamente e transfira os códigos para dentro da pasta **htdocs** (_C:\xampp\htdocs_).
+ 
+> Faça a renomeação do nome do repositório de **Sysroupas** para **web** por causa do caminho dos arquivos do código que estam com nome de **web**.
+>
 
 ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i15.png)
 
