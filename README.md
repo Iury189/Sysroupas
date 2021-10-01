@@ -93,7 +93,7 @@ Dados de login (Esse login não possui acesso total ao sistema):
 ![](https://github.com/Iury189/Sysroupas/blob/master/imagens_instalacao/i6.png)
 
 6º Passo - Pronto, você já está dentro do endereço de servidor web local (_C:\xampp\htdocs_).
-> O caminho do XAMPP no Linux e macOS são diferentes do Windows, para Linux o diretório é **/var/www/html/** e para macOS o diretório é **/Applications/XAMPP/xamppfiles/htdocs**.
+> O caminho do XAMPP no Linux e macOS são diferentes do Windows, para Linux o diretório é **/opt/lampp/htdocs/** e para macOS o diretório é **/Applications/XAMPP/xamppfiles/htdocs**.
 > >
 ![]()
 
